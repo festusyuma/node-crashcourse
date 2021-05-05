@@ -1,0 +1,22 @@
+{
+  "name": "crashcourse",
+  "version": "1.0.0",
+  "description": "Nodejs Crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/festusyuma/node-crashcourse.git"
+  },
+  "author": "Festusyuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/festusyuma/node-crashcourse/issues"
+  },
+  "homepage": "https://github.com/festusyuma/node-crashcourse#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
